@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "bryan-foong",
+      "name": "Bryan Foong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8801553?v=4",
+      "profile": "https://github.com/bryan-foong",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "allcontributors-test",
+  "projectOwner": "bryan-foong",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
